@@ -1,9 +1,0 @@
-feat: 初始化 AI Agent 專案基礎架構
-
-新增專案的初始核心檔案與設定：
-- 建立 `main.py` 作為主程式入口
-- 建立 `README.md` 以供專案文件說明
-- 引入 `pyproject.toml` 與 `uv.lock` 管理專案套件與依賴版本的鎖定
-- 增加 `.python-version` 鎖定開發使用的 Python 版本
-
-這些檔案與套件管理配置定立了專案的基礎開發環境與擴充框架。
